@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         print("adding....")
     }
 
+    func divide(){
+        print("dividing....")
+    }
 
 }
 
